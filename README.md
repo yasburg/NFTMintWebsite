@@ -77,9 +77,10 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-3. Create images and publish them on ipfs. You can use this great tutorial -> [https://www.youtube.com/watch?v=meTpMP0J5E8]
-4. Setup Hardhat -> [https://hardhat.org/guides/project-setup.html]
-5. Add private key to the .env file.
+3. Create images and publish them on ipfs. You can use this great tutorial -> [https://www.youtube.com/watch?v=meTpMP0J5E8] 
+4. Change the ipfs address in contracts/RandomGuys.sol. </br> ![image](https://user-images.githubusercontent.com/34233254/152313359-27e91556-6d76-4dac-849b-8057d4136069.png)
+5. Setup Hardhat -> [https://hardhat.org/guides/project-setup.html]
+6. Add private key to the .env file.
    ```
    PRIVATE_KEY=1111111111111111111111111111111111111111111111111111111111111111
    ```
